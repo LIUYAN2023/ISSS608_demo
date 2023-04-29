@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: "In-class_Ex/In-Class Exercise 3/In-Class Exercise 3.html"
+        text: "In-Class Exercise 3"
       - about.qmd
 
 format:
